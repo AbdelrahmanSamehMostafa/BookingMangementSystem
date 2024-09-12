@@ -1,0 +1,36 @@
+﻿@page
+@using System.Security.Claims
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+
+    @* Check for a success message in TempData *@
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+    
+    <h1 class="display-4">Welcome</h1>
+
+    @if (User.Identity.IsAuthenticated)
+    {
+        @if (User.HasClaim(c => c.Type == ClaimTypes.NameIdentifier))
+        {
+            <p>Your email: @User.FindFirst(ClaimTypes.Name).Value</p>
+        }
+        else
+        {
+            <p>Email claim not found.</p>
+        }
+    }
+    else
+    {
+        <p>Welcome, Guest!</p>
+        <p>Please Login.</p>
+    }
+</div>

@@ -1,0 +1,46 @@
+@page
+@model BookingMangementSystem.Pages.Authors.ViewAllAuthors
+@{
+    ViewData["Title"] = "View All Authors";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (Model.Authors != null && Model.Authors.Any())
+{
+    <table class="table table-bordered mx-auto rounded border p-3">
+        <thead>
+            <tr>
+                <th>Author Name</th>
+                <th>Books</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var author in Model.Authors)
+            {
+                <tr>
+                    <td>@author.Name</td>
+                    <td>
+                        @if (author.Books != null && author.Books.Any())
+                        {
+                            <ul>
+                                @foreach (var book in author.Books)
+                                {
+                                    <li>@book.Name</li>
+                                }
+                            </ul>
+                        }
+                        else
+                        {
+                            <p>No books available</p>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No authors available.</p>
+}

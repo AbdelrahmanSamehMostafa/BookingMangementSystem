@@ -1,0 +1,101 @@
+@page
+@model BookingMangementSystem.Pages.Books.ViewAllBooks
+@{
+    ViewData["Title"] = "View All Books";
+}
+
+
+@if (!string.IsNullOrEmpty(Model.SuccessMessage))
+{
+    <div id="successMessage" class="alert alert-success" role="alert">
+        @Model.SuccessMessage
+    </div>
+}
+
+<form method="get" id="filterForm">
+    <div class="input-group mb-3 w-50 mx-auto">
+        <input type="text" name="searchTerm" class="form-control" placeholder="Search by book name..."
+            value="@Model.SearchTerm" />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+
+    <div class="form-check">
+        <input type="checkbox" name="isRecommended" class="form-check-input" value="true" id="isRecommended"
+            @(Model.IsRecommended == true ? "checked" : "") />
+        <label class="form-check-label" for="isRecommended">Recommended Books</label>
+    </div>
+
+    <div class="form-check">
+        <input type="checkbox" name="HasFile" class="form-check-input" value="true" id="HasFile" @(Model.HasFile == true ? "checked"
+            : "") />
+        <label class="form-check-label" for="HasFile">Has Book File</label>
+    </div>
+</form>
+
+@if (Model.Books != null && Model.Books.Any())
+{
+    <table class="table table-bordered mx-auto rounded border p-3">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Author</th>
+                <th>Description</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model.Books)
+            {
+                <tr>
+                    <td>@book.Name</td>
+                    <td>@book.Author.Name</td>
+                    <td>@book.Description</td>
+                    <td>
+                        <a class="btn btn-primary" asp-page="./ViewBookDetails" asp-route-id="@book.Id">View</a>
+                        @if (!string.IsNullOrEmpty(book.FilePath))
+                        {
+                            <a class="btn btn-success" href="/uploads/@book.FilePath" download
+                                onclick="return showDownloadMessage()">Download</a>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No books available.</p>
+}
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const isRecommendedCheckbox = document.getElementById('isRecommended');
+            const hasFileCheckbox = document.getElementById('HasFile');
+            const filterForm = document.getElementById('filterForm');
+            const successMessage = document.getElementById('successMessage');
+
+            function updateForm() {
+                filterForm.submit();
+            }
+
+            isRecommendedCheckbox.addEventListener('change', updateForm);
+            hasFileCheckbox.addEventListener('change', updateForm);
+
+            if (successMessage) {
+                setTimeout(() => {
+                    successMessage.style.display = 'none';
+                }, 5000);
+            }
+        });
+
+        function showDownloadMessage() {
+            const message = "Downloaded successfully!";
+            const queryParams = new URLSearchParams(window.location.search);
+            queryParams.set('message', message);
+            window.location.search = queryParams.toString();
+            return true; // Allow the download to proceed
+        }
+    </script>
+}
