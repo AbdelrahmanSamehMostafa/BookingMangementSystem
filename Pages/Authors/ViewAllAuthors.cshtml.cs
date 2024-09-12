@@ -4,12 +4,14 @@ using System.Linq;
 using System.Threading.Tasks;
 using BookingMangementSystem.Models;
 using BookingMangementSystem.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
 namespace BookingMangementSystem.Pages.Authors
 {
+    [Authorize(Roles = "user")]
     public class ViewAllAuthors : PageModel
     {
         private readonly IAuthorRepository _authorRepository;

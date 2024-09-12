@@ -4,12 +4,14 @@ using System.Linq;
 using System.Threading.Tasks;
 using BookingMangementSystem.Models;
 using BookingMangementSystem.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
 namespace BookingMangementSystem.Pages.Books
 {
+    [Authorize(Roles = "user")]
     public class ViewAllBooks : PageModel
     {
         private readonly IBookRepository _bookRepository;
@@ -30,14 +32,13 @@ namespace BookingMangementSystem.Pages.Books
 
         [BindProperty(SupportsGet = true)]
         public bool? IsRecommended { get; set; }
-        
+
 
         [BindProperty(SupportsGet = true)]
         public bool? HasFile { get; set; }
 
         public async Task OnGetAsync()
         {
-            // Example code to set a success message if needed
             SuccessMessage = Request.Query["message"];
 
             Books = await _bookRepository.SearchBooksAsync(SearchTerm, IsRecommended, HasFile);

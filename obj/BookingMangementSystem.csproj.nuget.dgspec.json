@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\BookingMangementSystem.csproj": {}
+    "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\BookingMangementSystem.csproj": {}
   },
   "projects": {
-    "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\BookingMangementSystem.csproj": {
+    "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\BookingMangementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\BookingMangementSystem.csproj",
+        "projectUniqueName": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\BookingMangementSystem.csproj",
         "projectName": "BookingMangementSystem",
-        "projectPath": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\BookingMangementSystem.csproj",
+        "projectPath": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\BookingMangementSystem.csproj",
         "packagesPath": "C:\\Users\\loOoMa\\.nuget\\packages\\",
-        "outputPath": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\",
+        "outputPath": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\loOoMa\\AppData\\Roaming\\NuGet\\NuGet.Config"
