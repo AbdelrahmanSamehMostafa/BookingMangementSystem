@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VJdoR2y7GY4qC5JM0hwQa+y6SVjDRBBudrYQT46uCxU=",
+  "Hash": "C1/riw/dGrlVbzlOk4DvAjvaHT7SoEnZthj93lttaag=",
   "Source": "BookingMangementSystem",
   "BasePath": "_content/BookingMangementSystem",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BookingMangementSystem\\wwwroot",
       "Source": "BookingMangementSystem",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\loOoMa\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.8\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookingMangementSystem.styles.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookingMangementSystem.styles.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "BookingMangementSystem.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookingMangementSystem.styles.css"
+      "OriginalItemSpec": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookingMangementSystem.styles.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookingMangementSystem.bundle.scp.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookingMangementSystem.bundle.scp.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "BookingMangementSystem.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookingMangementSystem.bundle.scp.css"
+      "OriginalItemSpec": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookingMangementSystem.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\css\\site.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\css\\site.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\favicon.ico",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\favicon.ico",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\js\\site.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\js\\site.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\0e0eccf1-fcf2-4ece-b999-2ca50c6e1548_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\0e0eccf1-fcf2-4ece-b999-2ca50c6e1548_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "uploads/0e0eccf1-fcf2-4ece-b999-2ca50c6e1548_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\0e0eccf1-fcf2-4ece-b999-2ca50c6e1548_Abdelrahman Sameh_Backend Developer_CV(2).pdf"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\1ab746f9-e1e5-4e4d-8c14-ec6a7ef13474_Abdelrahman Sameh_Backend Developer_CV.pdf",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\1ab746f9-e1e5-4e4d-8c14-ec6a7ef13474_Abdelrahman Sameh_Backend Developer_CV.pdf",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "uploads/1ab746f9-e1e5-4e4d-8c14-ec6a7ef13474_Abdelrahman Sameh_Backend Developer_CV.pdf",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\1ab746f9-e1e5-4e4d-8c14-ec6a7ef13474_Abdelrahman Sameh_Backend Developer_CV.pdf"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\20616fd5-fda2-49d4-bde9-d5cf0646b233_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\20616fd5-fda2-49d4-bde9-d5cf0646b233_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "uploads/20616fd5-fda2-49d4-bde9-d5cf0646b233_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\20616fd5-fda2-49d4-bde9-d5cf0646b233_Abdelrahman Sameh_Backend Developer_CV(2).pdf"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\20dffc63-918d-4986-afd0-33a494dd061e_AbdelrahmanSameh-CV.pdf",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\20dffc63-918d-4986-afd0-33a494dd061e_AbdelrahmanSameh-CV.pdf",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "uploads/20dffc63-918d-4986-afd0-33a494dd061e_AbdelrahmanSameh-CV.pdf",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\20dffc63-918d-4986-afd0-33a494dd061e_AbdelrahmanSameh-CV.pdf"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\39ca7c1b-449e-4bfb-8c7d-5056e975d159_57202-TarbeaRegistration.pdf",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\39ca7c1b-449e-4bfb-8c7d-5056e975d159_57202-TarbeaRegistration.pdf",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "uploads/39ca7c1b-449e-4bfb-8c7d-5056e975d159_57202-TarbeaRegistration.pdf",
       "AssetKind": "All",
@@ -2430,10 +2430,67 @@
       "OriginalItemSpec": "wwwroot\\uploads\\39ca7c1b-449e-4bfb-8c7d-5056e975d159_57202-TarbeaRegistration.pdf"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\4d85dfb0-5159-4600-aea6-48af94dfab24_Abdelrahman Sameh_Backend Developer_CV.pdf",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\3dbf66bf-7d64-47a1-b74f-e9dad283e0a7_Exercise-Clustering.ipynb",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/3dbf66bf-7d64-47a1-b74f-e9dad283e0a7_Exercise-Clustering.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3dbf66bf-7d64-47a1-b74f-e9dad283e0a7_Exercise-Clustering.ipynb"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\432338a6-9dcd-4090-8a50-fc829477fa24_Exercise-Clustering.ipynb",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/432338a6-9dcd-4090-8a50-fc829477fa24_Exercise-Clustering.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\432338a6-9dcd-4090-8a50-fc829477fa24_Exercise-Clustering.ipynb"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\4496b873-c684-467b-a960-de94bdeadf78_Exercise-Clustering.ipynb",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/4496b873-c684-467b-a960-de94bdeadf78_Exercise-Clustering.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4496b873-c684-467b-a960-de94bdeadf78_Exercise-Clustering.ipynb"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\4d85dfb0-5159-4600-aea6-48af94dfab24_Abdelrahman Sameh_Backend Developer_CV.pdf",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "uploads/4d85dfb0-5159-4600-aea6-48af94dfab24_Abdelrahman Sameh_Backend Developer_CV.pdf",
       "AssetKind": "All",
@@ -2449,10 +2506,86 @@
       "OriginalItemSpec": "wwwroot\\uploads\\4d85dfb0-5159-4600-aea6-48af94dfab24_Abdelrahman Sameh_Backend Developer_CV.pdf"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\a26ec56c-ed9a-41a0-8834-3472ba4f761d_Abdelrahman Sameh_Backend Developer_CV.pdf",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\5145d9d7-4d03-4701-9e69-f0987e61eae2_Exercise-Clustering.ipynb",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/5145d9d7-4d03-4701-9e69-f0987e61eae2_Exercise-Clustering.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5145d9d7-4d03-4701-9e69-f0987e61eae2_Exercise-Clustering.ipynb"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\62bc9c5a-f8b3-45bf-9142-b7c485ec8e52_Exercise-Clustering.ipynb",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/62bc9c5a-f8b3-45bf-9142-b7c485ec8e52_Exercise-Clustering.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\62bc9c5a-f8b3-45bf-9142-b7c485ec8e52_Exercise-Clustering.ipynb"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\67dffe64-2c0b-48d5-875e-c540dfce93b1_Exercise-Clustering.ipynb",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/67dffe64-2c0b-48d5-875e-c540dfce93b1_Exercise-Clustering.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\67dffe64-2c0b-48d5-875e-c540dfce93b1_Exercise-Clustering.ipynb"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\8ef3d0c1-2534-4975-b791-cd6381fe06b8_Exercise-Clustering.ipynb",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/8ef3d0c1-2534-4975-b791-cd6381fe06b8_Exercise-Clustering.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8ef3d0c1-2534-4975-b791-cd6381fe06b8_Exercise-Clustering.ipynb"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\a26ec56c-ed9a-41a0-8834-3472ba4f761d_Abdelrahman Sameh_Backend Developer_CV.pdf",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "uploads/a26ec56c-ed9a-41a0-8834-3472ba4f761d_Abdelrahman Sameh_Backend Developer_CV.pdf",
       "AssetKind": "All",
@@ -2468,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\a26ec56c-ed9a-41a0-8834-3472ba4f761d_Abdelrahman Sameh_Backend Developer_CV.pdf"
     },
     {
-      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\a3efaf1f-0511-4267-a911-76c41a11ae39_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\a3efaf1f-0511-4267-a911-76c41a11ae39_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
       "SourceId": "BookingMangementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
       "BasePath": "_content/BookingMangementSystem",
       "RelativePath": "uploads/a3efaf1f-0511-4267-a911-76c41a11ae39_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
       "AssetKind": "All",
@@ -2485,6 +2618,101 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\a3efaf1f-0511-4267-a911-76c41a11ae39_Abdelrahman Sameh_Backend Developer_CV(2).pdf"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\Abdelrahman Sameh_Backend Developer_CV.pdf",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/Abdelrahman Sameh_Backend Developer_CV.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Abdelrahman Sameh_Backend Developer_CV.pdf"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\ceb30461-d551-41b9-a7b3-112201cba39c_Exercise-Clustering.ipynb",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/ceb30461-d551-41b9-a7b3-112201cba39c_Exercise-Clustering.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ceb30461-d551-41b9-a7b3-112201cba39c_Exercise-Clustering.ipynb"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\d15f0dff-3d43-490d-94fb-3fd9c33d0e86_Exercise-Clustering.ipynb",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/d15f0dff-3d43-490d-94fb-3fd9c33d0e86_Exercise-Clustering.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d15f0dff-3d43-490d-94fb-3fd9c33d0e86_Exercise-Clustering.ipynb"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\ea013efb-8f4c-4b72-b56c-ddcf5e1bbc94_Exercise-Clustering.ipynb",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/ea013efb-8f4c-4b72-b56c-ddcf5e1bbc94_Exercise-Clustering.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ea013efb-8f4c-4b72-b56c-ddcf5e1bbc94_Exercise-Clustering.ipynb"
+    },
+    {
+      "Identity": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\fe8bf7d5-ddf1-4317-b739-3784dc5e167c_Exercise-Clustering.ipynb",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/fe8bf7d5-ddf1-4317-b739-3784dc5e167c_Exercise-Clustering.ipynb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fe8bf7d5-ddf1-4317-b739-3784dc5e167c_Exercise-Clustering.ipynb"
     }
   ]
 }

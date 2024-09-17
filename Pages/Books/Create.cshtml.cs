@@ -1,9 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http.Headers;
 using System.Threading.Tasks;
-using BookingMangementSystem.Models;
-using BookingMangementSystem.Repository;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -14,14 +13,15 @@ namespace BookingMangementSystem.Pages.Books
     [Authorize(Roles = "admin")]
     public class Create : PageModel
     {
-        private readonly IBookRepository _bookRepository;
         private readonly IAuthorRepository _authorRepository;
         private readonly IWebHostEnvironment _webHostEnvironment;
-        public Create(IBookRepository bookRepository, IAuthorRepository authorRepository, IWebHostEnvironment webHostEnvironment)
+        private readonly IHttpClientFactory _clientFactory;
+
+        public Create(IAuthorRepository authorRepository, IWebHostEnvironment webHostEnvironment, IHttpClientFactory clientFactory)
         {
-            _bookRepository = bookRepository;
             _authorRepository = authorRepository;
             _webHostEnvironment = webHostEnvironment;
+            _clientFactory = clientFactory;
         }
 
         [BindProperty]
@@ -43,36 +43,41 @@ namespace BookingMangementSystem.Pages.Books
                 return Page();
             }
 
-            // Log to check if file is received
-            if (Input.UploadedFile == null)
+            string filePath = ProcessUploadedFile();  // Process the file from Input.UploadedFile
+
+            // Set up the HTTP client
+            var client = _clientFactory.CreateClient();
+
+            using var formData = new MultipartFormDataContent();
+            formData.Add(new StringContent(Input.Id.ToString()), "id");
+            formData.Add(new StringContent(Input.Name), "name");
+            formData.Add(new StringContent(Input.Description), "description");
+            formData.Add(new StringContent(Input.Summary), "summary");
+            formData.Add(new StringContent(Input.AuthorId.ToString()), "authorId");
+            formData.Add(new StringContent(Input.IsRecommended.ToString()), "isRecommended");
+
+            // Attach the file
+            if (Input.UploadedFile != null)
             {
-                Console.WriteLine("File is null.");
+                var fileContent = new StreamContent(Input.UploadedFile.OpenReadStream());
+                fileContent.Headers.ContentType = new MediaTypeHeaderValue(Input.UploadedFile.ContentType);
+                formData.Add(fileContent, "filePath", Input.UploadedFile.FileName);
+            }
+
+            var response = await client.PostAsync("http://localhost:5284/api/Book", formData);
+
+            if (response.IsSuccessStatusCode)
+            {
+                TempData["SuccessMessage"] = $"Successfully added book '{Input.Name}'.";
+                return RedirectToPage("/Index");
             }
             else
             {
-                Console.WriteLine($"File uploaded: {Input.UploadedFile.FileName}");
+                ModelState.AddModelError(string.Empty, "There was an error adding the book.");
+                return Page();
             }
-
-            string filePath = ProcessUploadedFile();  // Process the file from Input.UploadedFile
-
-            var book = new Book
-            {
-
-                AuthorId = Input.AuthorId,
-                Name = Input.Name,
-                FilePath = filePath,
-                IsRecommended = Input.IsRecommended,
-                Description = Input.Description,
-                Summary = Input.Summary,
-            };
-
-            await _bookRepository.AddBookAsync(book);
-
-            // Store success message in TempData
-            TempData["SuccessMessage"] = $"Successfully added book '{book.Name}'.";
-
-            return RedirectToPage("/Index");
         }
+
 
         private string ProcessUploadedFile()
         {
