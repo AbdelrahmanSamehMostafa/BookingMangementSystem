@@ -525,3 +525,5 @@ E:\Codes\.NET Intern Projects\Razor Pages\BookingMangementSystem\BookingMangemen
 E:\Codes\.NET Intern Projects\Razor Pages\BookingMangementSystem\BookingMangementSystem\obj\Debug\net8.0\BookingMangementSystem.genruntimeconfig.cache
 E:\Codes\.NET Intern Projects\Razor Pages\BookingMangementSystem\BookingMangementSystem\obj\Debug\net8.0\ref\BookingMangementSystem.dll
 E:\Codes\.NET Intern Projects\Razor Pages\BookingMangementSystem\BookingMangementSystem\obj\Debug\net8.0\BookingMangementSystem.sourcelink.json
+E:\Codes\.NET Intern Projects\Razor Pages\BookingMangementSystem\BookingMangementSystem\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+E:\Codes\.NET Intern Projects\Razor Pages\BookingMangementSystem\BookingMangementSystem\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
