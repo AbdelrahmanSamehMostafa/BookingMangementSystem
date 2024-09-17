@@ -8961,11 +8961,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\BookingMangementSystem.csproj",
+      "projectUniqueName": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem.csproj",
       "projectName": "BookingMangementSystem",
-      "projectPath": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\BookingMangementSystem.csproj",
+      "projectPath": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem.csproj",
       "packagesPath": "C:\\Users\\loOoMa\\.nuget\\packages\\",
-      "outputPath": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\",
+      "outputPath": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\loOoMa\\AppData\\Roaming\\NuGet\\NuGet.Config"
