@@ -2,46 +2,36 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using BookingMangementSystem.Models;
-using BookingMangementSystem.Repository;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace BookingMangementSystem.Pages.Books
+namespace BooksSystem.Pages.Book
 {
-    [Authorize(Roles = "user")]
     public class ViewAllBooks : PageModel
     {
-        private readonly IBookRepository _bookRepository;
+        private readonly HttpClient _httpClient;
 
-        public ViewAllBooks(IBookRepository bookRepository)
+        public ViewAllBooks(HttpClient httpClient)
         {
-            _bookRepository = bookRepository;
+            _httpClient = httpClient;
         }
 
-        public IEnumerable<Book> Books { get; set; }
-
-        public string SuccessMessage { get; set; }
-
-
-        [BindProperty(SupportsGet = true)]
-        public string SearchTerm { get; set; }
-
-
-        [BindProperty(SupportsGet = true)]
-        public bool? IsRecommended { get; set; }
-
-
-        [BindProperty(SupportsGet = true)]
-        public bool? HasFile { get; set; }
+        public List<BooksSystem.Models.Book> Books { get; set; }
 
         public async Task OnGetAsync()
         {
-            SuccessMessage = Request.Query["message"];
+            // Fetch the list of books from the backend API
+            var response = await _httpClient.GetAsync("http://localhost:5284/api/Book");
 
-            Books = await _bookRepository.SearchBooksAsync(SearchTerm, IsRecommended, HasFile);
+            if (response.IsSuccessStatusCode)
+            {
+                Books = await response.Content.ReadAsAsync<List<BooksSystem.Models.Book>>();
+            }
+            else
+            {
+                Books = new List<BooksSystem.Models.Book>(); // Handle the error accordingly (e.g., log the issue)
+            }
         }
     }
 }

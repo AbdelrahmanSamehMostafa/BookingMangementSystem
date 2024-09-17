@@ -1,344 +1,264 @@
 {
   "Files": [
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookingMangementSystem.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BookingMangementSystem.bundle.scp.css"
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Temp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Temp.bundle.scp.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\css\\site.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\favicon.ico",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\js\\site.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\Temp\\BooksSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\0e0eccf1-fcf2-4ece-b999-2ca50c6e1548_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
-      "PackagePath": "staticwebassets\\uploads\\0e0eccf1-fcf2-4ece-b999-2ca50c6e1548_Abdelrahman Sameh_Backend Developer_CV(2).pdf"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\1ab746f9-e1e5-4e4d-8c14-ec6a7ef13474_Abdelrahman Sameh_Backend Developer_CV.pdf",
-      "PackagePath": "staticwebassets\\uploads\\1ab746f9-e1e5-4e4d-8c14-ec6a7ef13474_Abdelrahman Sameh_Backend Developer_CV.pdf"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\20616fd5-fda2-49d4-bde9-d5cf0646b233_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
-      "PackagePath": "staticwebassets\\uploads\\20616fd5-fda2-49d4-bde9-d5cf0646b233_Abdelrahman Sameh_Backend Developer_CV(2).pdf"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\20dffc63-918d-4986-afd0-33a494dd061e_AbdelrahmanSameh-CV.pdf",
-      "PackagePath": "staticwebassets\\uploads\\20dffc63-918d-4986-afd0-33a494dd061e_AbdelrahmanSameh-CV.pdf"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\39ca7c1b-449e-4bfb-8c7d-5056e975d159_57202-TarbeaRegistration.pdf",
-      "PackagePath": "staticwebassets\\uploads\\39ca7c1b-449e-4bfb-8c7d-5056e975d159_57202-TarbeaRegistration.pdf"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\3dbf66bf-7d64-47a1-b74f-e9dad283e0a7_Exercise-Clustering.ipynb",
-      "PackagePath": "staticwebassets\\uploads\\3dbf66bf-7d64-47a1-b74f-e9dad283e0a7_Exercise-Clustering.ipynb"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\432338a6-9dcd-4090-8a50-fc829477fa24_Exercise-Clustering.ipynb",
-      "PackagePath": "staticwebassets\\uploads\\432338a6-9dcd-4090-8a50-fc829477fa24_Exercise-Clustering.ipynb"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\4496b873-c684-467b-a960-de94bdeadf78_Exercise-Clustering.ipynb",
-      "PackagePath": "staticwebassets\\uploads\\4496b873-c684-467b-a960-de94bdeadf78_Exercise-Clustering.ipynb"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\4d85dfb0-5159-4600-aea6-48af94dfab24_Abdelrahman Sameh_Backend Developer_CV.pdf",
-      "PackagePath": "staticwebassets\\uploads\\4d85dfb0-5159-4600-aea6-48af94dfab24_Abdelrahman Sameh_Backend Developer_CV.pdf"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\5145d9d7-4d03-4701-9e69-f0987e61eae2_Exercise-Clustering.ipynb",
-      "PackagePath": "staticwebassets\\uploads\\5145d9d7-4d03-4701-9e69-f0987e61eae2_Exercise-Clustering.ipynb"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\62bc9c5a-f8b3-45bf-9142-b7c485ec8e52_Exercise-Clustering.ipynb",
-      "PackagePath": "staticwebassets\\uploads\\62bc9c5a-f8b3-45bf-9142-b7c485ec8e52_Exercise-Clustering.ipynb"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\67dffe64-2c0b-48d5-875e-c540dfce93b1_Exercise-Clustering.ipynb",
-      "PackagePath": "staticwebassets\\uploads\\67dffe64-2c0b-48d5-875e-c540dfce93b1_Exercise-Clustering.ipynb"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\8ef3d0c1-2534-4975-b791-cd6381fe06b8_Exercise-Clustering.ipynb",
-      "PackagePath": "staticwebassets\\uploads\\8ef3d0c1-2534-4975-b791-cd6381fe06b8_Exercise-Clustering.ipynb"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\Abdelrahman Sameh_Backend Developer_CV.pdf",
-      "PackagePath": "staticwebassets\\uploads\\Abdelrahman Sameh_Backend Developer_CV.pdf"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\a26ec56c-ed9a-41a0-8834-3472ba4f761d_Abdelrahman Sameh_Backend Developer_CV.pdf",
-      "PackagePath": "staticwebassets\\uploads\\a26ec56c-ed9a-41a0-8834-3472ba4f761d_Abdelrahman Sameh_Backend Developer_CV.pdf"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\a3efaf1f-0511-4267-a911-76c41a11ae39_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
-      "PackagePath": "staticwebassets\\uploads\\a3efaf1f-0511-4267-a911-76c41a11ae39_Abdelrahman Sameh_Backend Developer_CV(2).pdf"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\ceb30461-d551-41b9-a7b3-112201cba39c_Exercise-Clustering.ipynb",
-      "PackagePath": "staticwebassets\\uploads\\ceb30461-d551-41b9-a7b3-112201cba39c_Exercise-Clustering.ipynb"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\d15f0dff-3d43-490d-94fb-3fd9c33d0e86_Exercise-Clustering.ipynb",
-      "PackagePath": "staticwebassets\\uploads\\d15f0dff-3d43-490d-94fb-3fd9c33d0e86_Exercise-Clustering.ipynb"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\ea013efb-8f4c-4b72-b56c-ddcf5e1bbc94_Exercise-Clustering.ipynb",
-      "PackagePath": "staticwebassets\\uploads\\ea013efb-8f4c-4b72-b56c-ddcf5e1bbc94_Exercise-Clustering.ipynb"
-    },
-    {
-      "Id": "e:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\BookingMangementSystem\\wwwroot\\uploads\\fe8bf7d5-ddf1-4317-b739-3784dc5e167c_Exercise-Clustering.ipynb",
-      "PackagePath": "staticwebassets\\uploads\\fe8bf7d5-ddf1-4317-b739-3784dc5e167c_Exercise-Clustering.ipynb"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookingMangementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Temp.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookingMangementSystem.props",
-      "PackagePath": "build\\BookingMangementSystem.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Temp.props",
+      "PackagePath": "build\\Temp.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookingMangementSystem.props",
-      "PackagePath": "buildMultiTargeting\\BookingMangementSystem.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Temp.props",
+      "PackagePath": "buildMultiTargeting\\Temp.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookingMangementSystem.props",
-      "PackagePath": "buildTransitive\\BookingMangementSystem.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Temp.props",
+      "PackagePath": "buildTransitive\\Temp.props"
     }
   ],
   "ElementsToRemove": []
