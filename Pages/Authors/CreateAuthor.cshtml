@@ -1,0 +1,111 @@
+@page
+@model BookingMangementSystem.Pages.Authors.CreateAuthor
+@{
+    ViewData["Title"] = "Create Author";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-lg-6 mx-auto rounded border p-3">
+        <h2 class="text-center mb-3">Register Author</h2>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+        <form id="createAuthorForm" method="post">
+            <!-- Author Name -->
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Name" class="form-control" autocomplete="off" placeholder="Author Name" />
+                <label asp-for="Input.Name">Author Name</label>
+                <span asp-validation-for="Input.Name" class="text-danger"></span>
+            </div>
+
+            <!-- Books Section -->
+            <div class="mb-3">
+                <h4>Books</h4>
+                <hr />
+                <div id="booksContainer">
+                    <!-- Dynamically Added Books Will Appear Here -->
+                </div>
+
+                <button type="button" id="openBookModal" class="btn btn-secondary mb-3">Add Book</button>
+            </div>
+
+            <!-- Submit and Cancel Buttons -->
+            <div class="row mb-3">
+                <div class="offset-sm-4 col-sm-4 d-grid">
+                    <button type="submit" class="btn btn-primary">Add</button>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-outline-primary" href="/" role="button">Cancel</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- Modal for Book Creation -->
+<div class="modal fade" id="bookModal" tabindex="-1" aria-labelledby="bookModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="bookModalLabel">Add Book</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <!-- Book form will be loaded here -->
+                <form id="bookForm" method="post" onsubmit="submitBookForm(event)">
+                    <div id="bookFormContent"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const openBookModal = document.getElementById("openBookModal");
+            const booksContainer = document.getElementById("booksContainer");
+            let bookCounter = 0;
+
+            openBookModal.addEventListener("click", function () {
+                // Load the partial view into the modal
+                fetch('@Url.Page("/Books/CreateBook")')
+                    .then(response => response.text())
+                    .then(html => {
+                        document.getElementById("bookFormContent").innerHTML = html;
+                        $('#bookModal').modal('show');
+                    });
+            });
+
+            // Submit book form and append it to the books list
+            window.submitBookForm = function (event) {
+                event.preventDefault();
+                bookCounter++;
+
+                const bookTitle = document.querySelector('input[name="Title"]').value;
+                const bookDescription = document.querySelector('textarea[name="Description"]').value;
+
+                // Add book details to the main form in the parent page
+                const bookSummary = `
+                            <div class="book-summary">
+                                <h5>Book ${bookCounter}: ${bookTitle}</h5>
+                                <p>${bookDescription}</p>
+                            </div>
+                        `;
+                booksContainer.insertAdjacentHTML('beforeend', bookSummary);
+
+                // Append hidden fields to send the data with the main form
+                const hiddenFields = `
+                            <input type="hidden" name="Input.Books[${bookCounter}].Title" value="${bookTitle}" />
+                            <input type="hidden" name="Input.Books[${bookCounter}].Description" value="${bookDescription}" />
+                        `;
+                booksContainer.insertAdjacentHTML('beforeend', hiddenFields);
+
+                // Close the modal
+                $('#bookModal').modal('hide');
+            };
+        });
+    </script>
+}

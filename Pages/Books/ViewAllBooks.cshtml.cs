@@ -17,7 +17,7 @@ namespace BooksSystem.Pages.Book
             _httpClient = httpClient;
         }
 
-        public List<BooksSystem.Models.Book> Books { get; set; }
+        public List<BookingMangementSystem.Models.Book> Books { get; set; }
 
         public async Task OnGetAsync()
         {
@@ -26,11 +26,11 @@ namespace BooksSystem.Pages.Book
 
             if (response.IsSuccessStatusCode)
             {
-                Books = await response.Content.ReadAsAsync<List<BooksSystem.Models.Book>>();
+                Books = await response.Content.ReadAsAsync<List<BookingMangementSystem.Models.Book>>();
             }
             else
             {
-                Books = new List<BooksSystem.Models.Book>(); // Handle the error accordingly (e.g., log the issue)
+                Books = new List<BookingMangementSystem.Models.Book>(); // Handle the error accordingly (e.g., log the issue)
             }
         }
     }

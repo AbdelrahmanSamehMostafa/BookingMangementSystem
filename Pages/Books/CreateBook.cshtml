@@ -1,0 +1,26 @@
+@page
+@model BookingMangementSystem.Pages.Books.CreateBook
+@{
+    ViewData["Title"] = "Create Book";
+}
+
+<div class="form-floating mb-2">
+    <input asp-for="Title" class="form-control" placeholder="Book Name" required />
+    <label asp-for="Title">Book Name</label>
+    <span asp-validation-for="Title" class="text-danger"></span>
+</div>
+
+<div class="form-floating mb-2">
+    <textarea asp-for="Description" class="form-control" placeholder="Book Description" required></textarea>
+    <label asp-for="Description">Book Description</label>
+    <span asp-validation-for="Description" class="text-danger"></span>
+</div>
+
+<button type="button" class="btn btn-danger btn-sm" onclick="closeModal()">Close</button>
+<button type="submit" class="btn btn-primary btn-sm">Save</button>
+
+<script>
+    function closeModal() {
+        $('#bookModal').modal('hide');  // Assuming you're using Bootstrap modals
+    }
+</script>

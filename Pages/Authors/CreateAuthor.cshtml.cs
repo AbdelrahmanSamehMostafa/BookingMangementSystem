@@ -4,23 +4,24 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 using BookingMangementSystem.Models;
+using BookingMangementSystem.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace BooksSystem.Pages.Account
+namespace BookingMangementSystem.Pages.Authors
 {
-    public class Register : PageModel
+    public class CreateAuthor : PageModel
     {
         private readonly HttpClient _httpClient;
 
-        public Register(HttpClient httpClient)
+        public CreateAuthor(HttpClient httpClient)
         {
             _httpClient = httpClient;
         }
 
         [BindProperty]
-        public User Input { get; set; }
+        public Author Input { get; set; }
 
         public async Task<IActionResult> OnPostAsync()
         {
@@ -29,7 +30,13 @@ namespace BooksSystem.Pages.Account
                 return Page();
             }
 
-            var response = await _httpClient.PostAsJsonAsync("https://your-backend-api.com/api/auth/register", Input);
+            var response = await _httpClient.PostAsJsonAsync("http://localhost:5284/api/Author", Input);
+
+            // Ensure that the Books property is not null
+            if (Input.Books == null)
+            {
+                Input.Books = new List<Book>();
+            }
 
             if (response.IsSuccessStatusCode)
             {

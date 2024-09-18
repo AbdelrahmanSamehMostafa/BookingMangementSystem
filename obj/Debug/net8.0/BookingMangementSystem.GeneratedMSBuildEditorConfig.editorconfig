@@ -38,8 +38,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Codes/.NET Intern Projects/Razor Pages/BookingMangementSystem/Pages/Authors/CreateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xDcmVhdGVBdXRob3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Codes/.NET Intern Projects/Razor Pages/BookingMangementSystem/Pages/Authors/ViewAllAuthors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xWaWV3QWxsQXV0aG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/.NET Intern Projects/Razor Pages/BookingMangementSystem/Pages/Books/CreateBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcQ3JlYXRlQm9vay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Codes/.NET Intern Projects/Razor Pages/BookingMangementSystem/Pages/Books/ViewAllBooks.cshtml]

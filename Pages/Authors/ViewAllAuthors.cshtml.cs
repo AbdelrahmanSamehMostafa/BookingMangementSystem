@@ -17,7 +17,7 @@ namespace BookingMangementSystem.Pages.Authors
             _httpClient = httpClient;
         }
 
-        public List<BooksSystem.Models.Author> Authors { get; set; }
+        public List<BookingMangementSystem.Models.Author> Authors { get; set; }
 
         public async Task OnGetAsync()
         {
@@ -26,11 +26,11 @@ namespace BookingMangementSystem.Pages.Authors
 
             if (response.IsSuccessStatusCode)
             {
-                Authors = await response.Content.ReadAsAsync<List<BooksSystem.Models.Author>>();
+                Authors = await response.Content.ReadAsAsync<List<BookingMangementSystem.Models.Author>>();
             }
             else
             {
-                Authors = new List<BooksSystem.Models.Author>(); // Handle the error accordingly (e.g., log the issue)
+                Authors = new List<BookingMangementSystem.Models.Author>(); // Handle the error accordingly (e.g., log the issue)
             }
         }
     }
