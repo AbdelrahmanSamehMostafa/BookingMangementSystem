@@ -1,0 +1,12 @@
+@page "{id:Guid}"
+@model BookingMangementSystem.Pages.Books.ViewBookDetails
+@{
+    ViewData["Title"] = "ViewBookDetails";
+}
+
+<h1>@Model.BookWithAuthor.Book.Name</h1>
+
+<p><strong>Author:</strong> @Model.BookWithAuthor.AuthorName</p>
+<p><strong>Description:</strong> @Model.BookWithAuthor.Book.Description</p>
+<p><strong>Summary:</strong> @Model.BookWithAuthor.Book.Summary</p>
+<p><strong>IsRecommended:</strong> @Model.BookWithAuthor.Book.IsRecommended</p>

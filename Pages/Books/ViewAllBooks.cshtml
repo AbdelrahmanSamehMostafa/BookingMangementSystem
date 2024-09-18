@@ -24,14 +24,14 @@
                     <td>@book.Book.Name</td>
                     <td>@book.AuthorName</td>
                     <td>@book.Book.Description</td>
-                    @* <td>
-            <a class="btn btn-primary" asp-page="./ViewBookDetails" asp-route-id="@book.Id">View</a>
-            @if (!string.IsNullOrEmpty(book.FilePath))
-            {
-            <a class="btn btn-success" href="/uploads/@book.FilePath" download
-            onclick="return showDownloadMessage()">Download</a>
-            }
-            </td> *@
+                    <td>
+                        <a class="btn btn-primary" asp-page="./ViewBookDetails" asp-route-id="@book.Book.Id">View</a>
+                        @* @if (!string.IsNullOrEmpty(book.FilePath))
+                {
+                <a class="btn btn-success" href="/uploads/@book.FilePath" download
+                onclick="return showDownloadMessage()">Download</a>
+                } *@
+                    </td>
                 </tr>
             }
         </tbody>
