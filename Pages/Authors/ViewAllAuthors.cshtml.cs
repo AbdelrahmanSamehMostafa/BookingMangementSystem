@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BookingMangementSystem.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
@@ -17,11 +18,11 @@ namespace BookingMangementSystem.Pages.Authors
             _httpClient = httpClient;
         }
 
-        public List<BookingMangementSystem.Models.Author> Authors { get; set; }
+        public List<Author> Authors { get; set; }
 
         public async Task OnGetAsync()
         {
-            // Fetch the list of books from the backend API
+            // Fetch the list of authors from the backend API
             var response = await _httpClient.GetAsync("http://localhost:5284/api/Author");
 
             if (response.IsSuccessStatusCode)

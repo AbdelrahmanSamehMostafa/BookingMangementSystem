@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4AKKKTaMKC9fnMSq596IKnD864+qLS9gFHDoxyfQlQw=",
+  "Hash": "gjESyqEuUrcouzPXduaAMrC7vAlHhF5t7dDscCELjpE=",
   "Source": "BookingMangementSystem",
   "BasePath": "_content/BookingMangementSystem",
   "Mode": "Default",
@@ -2333,6 +2333,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\wwwroot\\uploads\\8ecbe1f8-ea6d-4f31-b278-e3313c51945d_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/8ecbe1f8-ea6d-4f31-b278-e3313c51945d_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8ecbe1f8-ea6d-4f31-b278-e3313c51945d_Abdelrahman Sameh_Backend Developer_CV(2).pdf"
+    },
+    {
+      "Identity": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\wwwroot\\uploads\\9ea77360-534d-46e7-baa4-22aa0fac0ba1_Abdelrahman Sameh_Backend Developer_CV.pdf",
+      "SourceId": "BookingMangementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\wwwroot\\",
+      "BasePath": "_content/BookingMangementSystem",
+      "RelativePath": "uploads/9ea77360-534d-46e7-baa4-22aa0fac0ba1_Abdelrahman Sameh_Backend Developer_CV.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9ea77360-534d-46e7-baa4-22aa0fac0ba1_Abdelrahman Sameh_Backend Developer_CV.pdf"
     }
   ]
 }

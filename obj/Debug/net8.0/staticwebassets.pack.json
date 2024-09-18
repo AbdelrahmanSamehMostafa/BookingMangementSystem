@@ -245,6 +245,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\wwwroot\\uploads\\8ecbe1f8-ea6d-4f31-b278-e3313c51945d_Abdelrahman Sameh_Backend Developer_CV(2).pdf",
+      "PackagePath": "staticwebassets\\uploads\\8ecbe1f8-ea6d-4f31-b278-e3313c51945d_Abdelrahman Sameh_Backend Developer_CV(2).pdf"
+    },
+    {
+      "Id": "E:\\Codes\\.NET Intern Projects\\Razor Pages\\BookingMangementSystem\\wwwroot\\uploads\\9ea77360-534d-46e7-baa4-22aa0fac0ba1_Abdelrahman Sameh_Backend Developer_CV.pdf",
+      "PackagePath": "staticwebassets\\uploads\\9ea77360-534d-46e7-baa4-22aa0fac0ba1_Abdelrahman Sameh_Backend Developer_CV.pdf"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookingMangementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

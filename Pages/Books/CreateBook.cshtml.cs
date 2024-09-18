@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
+using BookingMangementSystem.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
@@ -11,43 +11,95 @@ namespace BookingMangementSystem.Pages.Books
 {
     public class CreateBook : PageModel
     {
-        // Properties for Book data
-        [BindProperty]
-        [Required(ErrorMessage = "Title is required.")]
-        [StringLength(100, ErrorMessage = "Title cannot be longer than 100 characters.")]
-        public string Title { get; set; }
+        private readonly HttpClient _httpClient;
+        private readonly IWebHostEnvironment _webHostEnvironment;
 
-        [BindProperty]
-        [Required(ErrorMessage = "Description is required.")]
-        [StringLength(500, ErrorMessage = "Description cannot be longer than 500 characters.")]
-        public string Description { get; set; }
-
-        // Logger (optional, if you need to log something)
-        private readonly ILogger<CreateBook> _logger;
-
-        public CreateBook(ILogger<CreateBook> logger)
+        public CreateBook(HttpClient httpClient, IWebHostEnvironment webHostEnvironment)
         {
-            _logger = logger;
+            _httpClient = httpClient;
+            _webHostEnvironment = webHostEnvironment;
         }
 
-        // This method is called when the form is posted
-        public IActionResult OnPost()
+        // Book Input Model to handle form data
+        [BindProperty]
+        public Book Input { get; set; }
+
+        // List of Authors to populate the dropdown
+        public List<Author> Authors { get; set; }
+
+        public async Task OnGetAsync()
         {
-            // Check if the model is valid (validation is performed here)
+            // Fetch the list of authors from the backend API
+            var response = await _httpClient.GetAsync("http://localhost:5284/api/Author");
+
+            if (response.IsSuccessStatusCode)
+            {
+                Authors = await response.Content.ReadAsAsync<List<Author>>();
+            }
+            else
+            {
+                Authors = new List<Author>();
+            }
+        }
+
+        public async Task<IActionResult> OnPostAsync()
+        {
+            // string filePath = ProcessUploadedFile();
+
+            // Validate the model
             if (!ModelState.IsValid)
             {
-                // If validation fails, return to the page with validation messages
                 return Page();
             }
 
-            // If everything is valid, you can proceed with further actions, like saving the data
-            // You can add logic to save the book to a database or some storage
+            // Prepare the book data to send to the API
+            var bookToAdd = new Book
+            {
+                Id = Guid.Empty,
+                Name = Input.Name,
+                Description = Input.Description,
+                Summary = Input.Summary,
+                IsRecommended = Input.IsRecommended,
+                AuthorId = Input.AuthorId,
+                // FilePath = filePath
+            };
 
-            // Example of logging the creation (optional)
-            _logger.LogInformation($"Book created with Title: {Title}");
+            // Make the POST request to add the book to the database
+            var response = await _httpClient.PostAsJsonAsync("http://127.0.0.1:5284/api/Book", bookToAdd);
 
-            // Redirect back to the author creation page or another page
-            return RedirectToPage("/Authors/CreateAuthor"); // Adjust the page name as needed
+            if (response.IsSuccessStatusCode)
+            {
+                return RedirectToPage("/Books/ViewAllBooks");
+            }
+            else
+            {
+                ModelState.AddModelError(string.Empty, "There was an error adding the book.");
+                return Page();
+            }
         }
+
+        // private string ProcessUploadedFile()
+        // {
+        //     string uniqueFileName = null;
+
+        //     if (Input.UploadedFile != null)
+        //     {
+        //         string uploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "uploads");
+        //         if (!Directory.Exists(uploadsFolder))
+        //         {
+        //             Directory.CreateDirectory(uploadsFolder);
+        //         }
+
+        //         uniqueFileName = Guid.NewGuid().ToString() + "_" + Input.UploadedFile.FileName;
+        //         string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+        //         using (var fileStream = new FileStream(filePath, FileMode.Create))
+        //         {
+        //             Input.UploadedFile.CopyTo(fileStream);
+        //         }
+        //     }
+
+        //     return uniqueFileName;
+        // }
     }
 }

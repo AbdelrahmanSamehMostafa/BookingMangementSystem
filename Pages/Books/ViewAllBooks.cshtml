@@ -6,26 +6,24 @@
 
 <h2>All Books</h2>
 
-@if (Model.Books != null && Model.Books.Any())
+@if (Model.BooksWithAuthors != null && Model.BooksWithAuthors.Any())
 {
     <table class="table table-bordered mx-auto rounded border p-3">
         <thead>
             <tr>
                 <th>Name</th>
-                @* <th>Author</th> *@
+                <th>AuthorName</th>
                 <th>Description</th>
-                <th>Summary</th>
                 <th>Actions</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var book in Model.Books)
+            @foreach (var book in Model.BooksWithAuthors)
             {
                 <tr>
-                    <td>@book.Name</td>
-                    @* <td>@book.Author.Name</td> *@
-                    <td>@book.Description</td>
-                    <td>@book.Summary</td>
+                    <td>@book.Book.Name</td>
+                    <td>@book.AuthorName</td>
+                    <td>@book.Book.Description</td>
                     @* <td>
             <a class="btn btn-primary" asp-page="./ViewBookDetails" asp-route-id="@book.Id">View</a>
             @if (!string.IsNullOrEmpty(book.FilePath))

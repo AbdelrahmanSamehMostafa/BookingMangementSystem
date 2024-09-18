@@ -30,13 +30,13 @@ namespace BookingMangementSystem.Pages.Authors
                 return Page();
             }
 
-            var response = await _httpClient.PostAsJsonAsync("http://localhost:5284/api/Author", Input);
-
             // Ensure that the Books property is not null
             if (Input.Books == null)
             {
                 Input.Books = new List<Book>();
             }
+
+            var response = await _httpClient.PostAsJsonAsync("http://localhost:5284/api/Author", Input);
 
             if (response.IsSuccessStatusCode)
             {

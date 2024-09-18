@@ -4,23 +4,65 @@
     ViewData["Title"] = "Create Book";
 }
 
-<div class="form-floating mb-2">
-    <input asp-for="Title" class="form-control" placeholder="Book Name" required />
-    <label asp-for="Title">Book Name</label>
-    <span asp-validation-for="Title" class="text-danger"></span>
+<div class="row">
+    <div class="col-lg-6 mx-auto rounded border p-3">
+        <section>
+            <h2 class="text-center mb-3">Add Book</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            @* <input hidden asp-for="Input.FilePath" /> *@
+
+            <form method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label class="form-label">Name</label>
+                    <input asp-for="Input.Name" class="form-control" />
+                    <span asp-validation-for="Input.Name" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Description</label>
+                    <textarea asp-for="Input.Description" class="form-control"></textarea>
+                    <span asp-validation-for="Input.Description" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Summary</label>
+                    <textarea asp-for="Input.Summary" class="form-control"></textarea>
+                    <span asp-validation-for="Input.Summary" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Is Recommended</label>
+                    <input asp-for="Input.IsRecommended" type="checkbox" class="form-check-input" />
+                </div>
+
+                @* <div class="mb-3">
+                    <label class="form-label">Upload File</label>
+                    <input asp-for="Input.UploadedFile" type="file" class="form-control" />
+                    <span asp-validation-for="Input.UploadedFile" class="text-danger"></span>
+                </div> *@
+
+                <div class="mb-3">
+                    <label class="form-label">Author</label>
+                    <select asp-for="Input.AuthorId" class="form-select">
+                        <option value="">Select an author</option>
+                        @foreach (var author in Model.Authors)
+                        {
+                            <option value="@author.Id">@author.Name</option>
+                        }
+                    </select>
+                    <span asp-validation-for="Input.AuthorId" class="text-danger"></span>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col d-grid">
+                        <button type="submit" class="btn btn-primary">Add Book</button>
+                    </div>
+                    <div class="col d-grid">
+                        <a class="btn btn-outline-primary" href="/" role="button">Cancel</a>
+                    </div>
+                </div>
+            </form>
+        </section>
+    </div>
 </div>
-
-<div class="form-floating mb-2">
-    <textarea asp-for="Description" class="form-control" placeholder="Book Description" required></textarea>
-    <label asp-for="Description">Book Description</label>
-    <span asp-validation-for="Description" class="text-danger"></span>
-</div>
-
-<button type="button" class="btn btn-danger btn-sm" onclick="closeModal()">Close</button>
-<button type="submit" class="btn btn-primary btn-sm">Save</button>
-
-<script>
-    function closeModal() {
-        $('#bookModal').modal('hide');  // Assuming you're using Bootstrap modals
-    }
-</script>
