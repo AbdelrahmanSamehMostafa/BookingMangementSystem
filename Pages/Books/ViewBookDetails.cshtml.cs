@@ -24,14 +24,14 @@ namespace BookingMangementSystem.Pages.Books
         public async Task<IActionResult> OnGetAsync(Guid id)
         {
             // Fetch the book details using the book ID
-            var bookResponse = await _httpClient.GetAsync($"http://127.0.0.1:5284/api/Book/{id}");
+            var bookResponse = await _httpClient.GetAsync($"http://localhost:5097/api/Book/{id}");
 
             if (bookResponse.IsSuccessStatusCode)
             {
                 var book = await bookResponse.Content.ReadAsAsync<Book>();
 
                 // Fetch the author's name by the AuthorId from the book
-                var authorResponse = await _httpClient.GetAsync($"http://127.0.0.1:5284/api/Author/{book.AuthorId}");
+                var authorResponse = await _httpClient.GetAsync($"http://localhost:5097/api/Author/{book.AuthorId}");
 
                 string authorName = string.Empty;
 

@@ -1,4 +1,5 @@
 @page
+@using BookingMangementSystem.Models.Enums
 @model BooksSystem.Pages.Account.Register
 @{
     ViewData["Title"] = "Register";
@@ -12,12 +13,12 @@
 
         <form id="registerForm" method="post">
 
-            @* <div class="form-floating mb-3">
-            <input asp-for="Input.Name" class="form-control" autocomplete="name" aria-required="true"
-            placeholder="name@example.com" />
-            <label asp-for="Input.Name">Name</label>
-            <span asp-validation-for="Input.Name" class="text-danger"></span>
-            </div> *@
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Name" class="form-control" autocomplete="name" aria-required="true"
+                    placeholder="name@example.com" />
+                <label asp-for="Input.Name">Name</label>
+                <span asp-validation-for="Input.Name" class="text-danger"></span>
+            </div>
 
             <div class="form-floating mb-3">
                 <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true"
@@ -40,13 +41,13 @@
                 <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
             </div>
 
-            @* <div class="form-group mb-3">
+            <div class="form-group mb-3">
                 <label asp-for="Input.Role" class="control-label"></label>
                 <select asp-for="Input.Role" class="form-control" asp-items="Html.GetEnumSelectList<UserRole>()">
                     <option value="">Please Select</option>
                 </select>
                 <span asp-validation-for="Input.Role" class="text-danger"></span>
-            </div> *@
+            </div>
 
             <div class="row mb-3">
                 <div class="offset-sm-4 col-sm-4 d-grid">

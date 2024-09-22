@@ -29,7 +29,7 @@ namespace BooksSystem.Pages.Account
                 return Page();
             }
 
-            var response = await _httpClient.PostAsJsonAsync("https://your-backend-api.com/api/auth/register", Input);
+            var response = await _httpClient.PostAsJsonAsync("http://localhost:5097/api/Auth/register", Input);
 
             if (response.IsSuccessStatusCode)
             {

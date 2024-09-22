@@ -25,7 +25,7 @@ namespace BooksSystem.Pages.Book
         {
 
             // Fetch the list of books from the backend API
-            var bookResponse = await _httpClient.GetAsync("http://localhost:5284/api/Book");
+            var bookResponse = await _httpClient.GetAsync("http://localhost:5097/api/Book");
 
             if (bookResponse.IsSuccessStatusCode)
             {
@@ -35,7 +35,7 @@ namespace BooksSystem.Pages.Book
                 foreach (var book in books)
                 {
                     // Call the API to get the author's name using the AuthorId
-                    var authorResponse = await _httpClient.GetAsync($"http://127.0.0.1:5284/api/Author/{book.AuthorId}");
+                    var authorResponse = await _httpClient.GetAsync($"http://localhost:5097/api/Author/{book.AuthorId}");
 
                     string authorName = string.Empty;
 

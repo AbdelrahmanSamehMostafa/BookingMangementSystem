@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
 
 <head>
     <meta charset="utf-8" />
@@ -24,16 +25,19 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Authors/CreateAuthor">AddAuthor</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Books/CreateBook">AddBook</a>
-                        </li>
-                        @if (User.IsInRole("admin"))
+
+                        @if (HttpContextAccessor.HttpContext.Session.GetString("UserRole") == "admin")
                         {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-page="Books/Create">AddBook</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Authors/CreateAuthor">AddAuthor</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Books/CreateBook">AddBook</a>
                             </li>
                         }
                         else
@@ -41,18 +45,21 @@
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-page="/Books/ViewAllBooks">ViewAllBooks</a>
                             </li>
+
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-page="/Authors/ViewAllAuthors">ViewAllAuthors</a>
                             </li>
                         }
+
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Account/Login">Login</a>
                         </li>
+
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Account/Register">Register</a>
                         </li>
                     </ul>
-
+                    <partial name="_LoginPartial" />
                 </div>
             </div>
         </nav>

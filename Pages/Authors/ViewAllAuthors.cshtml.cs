@@ -23,7 +23,7 @@ namespace BookingMangementSystem.Pages.Authors
         public async Task OnGetAsync()
         {
             // Fetch the list of authors from the backend API
-            var response = await _httpClient.GetAsync("http://localhost:5284/api/Author");
+            var response = await _httpClient.GetAsync("http://localhost:5097/api/Author");
 
             if (response.IsSuccessStatusCode)
             {

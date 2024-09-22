@@ -30,7 +30,7 @@ namespace BookingMangementSystem.Pages.Books
         public async Task OnGetAsync()
         {
             // Fetch the list of authors from the backend API
-            var response = await _httpClient.GetAsync("http://localhost:5284/api/Author");
+            var response = await _httpClient.GetAsync("http://localhost:5097/api/Author");
 
             if (response.IsSuccessStatusCode)
             {
@@ -65,7 +65,7 @@ namespace BookingMangementSystem.Pages.Books
             };
 
             // Make the POST request to add the book to the database
-            var response = await _httpClient.PostAsJsonAsync("http://127.0.0.1:5284/api/Book", bookToAdd);
+            var response = await _httpClient.PostAsJsonAsync("http://localhost:5097/api/Book", bookToAdd);
 
             if (response.IsSuccessStatusCode)
             {
